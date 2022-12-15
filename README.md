@@ -15,6 +15,6 @@
 
 
 # 💪Skills
-** Frontend-stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
+**Frontend-stack** <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> 
 
