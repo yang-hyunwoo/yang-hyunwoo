@@ -16,7 +16,7 @@
 # 💪Skills
 
 **blog** <br>
-<a href="https://code-basic.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=black"></a>
+<a href="https://code-basic.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a>
 
 **FrontEnd-stack** <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"> 
