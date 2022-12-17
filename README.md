@@ -13,8 +13,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yang-hyunwoo&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cohouseol)](https://solved.ac/cohouseol/)
 
-
 # 💪Skills
+
+**blog** <br>
+<a href="https://code-basic.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=black"></a>
+
 **FrontEnd-stack** <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black"> 
