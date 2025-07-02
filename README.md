@@ -28,8 +28,6 @@
 
 **BackEnd-stack** <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=black"> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=black"> 
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=black"> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/> 
@@ -42,8 +40,6 @@
 **Cooperation-stack** <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=black"> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=black"> 
-<img src="https://img.shields.io/badge/Gitignore.io-204ECF?style=flat&logo=Gitignore.io&logoColor=black"> 
 
 **Tool-stack** <br>
-<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=black"> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=black"> 
