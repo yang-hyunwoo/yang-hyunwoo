@@ -3,6 +3,7 @@
 
 # 👋 Welcome to My GitHub!
 
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+a+Backend+Developer;Java+%26+Spring+Boot+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </a>
