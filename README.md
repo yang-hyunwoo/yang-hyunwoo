@@ -12,7 +12,14 @@
 
 </div>
 
+## 💬 Today's Dev Quote
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yang-hyunwoo/yang-hyunwoo/output/dev-quote.svg" alt="오늘의 개발 명언" width="850" />
+</div>
+
 ---
+
 
 ## 🚀 About Me
 
