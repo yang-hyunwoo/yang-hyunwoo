@@ -86,7 +86,7 @@ public class Developer {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yang-hyunwoo" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/yang-hyunwoo/yang-hyunwoo/output/activity-graph.svg" alt="Contribution Graph" />
 </div>
 
 ---
