@@ -12,8 +12,6 @@
 
 </div>
 
-## 💬 Today's Dev Quote
-
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/yang-hyunwoo/yang-hyunwoo/output/dev-quote.svg"
