@@ -86,7 +86,7 @@ public class Developer {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yang-hyunwoo/yang-hyunwoo/output/activity-graph.svg" alt="Contribution Graph" />
+  <img src="https://github.com/yang-hyunwoo/yang-hyunwoo/raw/refs/heads/output/activity-graph.svg" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
