@@ -1,44 +1,114 @@
+
 <div align="center">
-  반갑습니다.👋<br>
-  제 이름은 양현우🚹 이구요. 백엔드 공부를 하고 있어요 🔡<br>
-  많은 공부는 아니지만 조금씩 열심히 하려고 하는 중이에요<br>
-  부족한 실력이지만 잘 부탁드려요! 👀 <br>
-  <br>
-  
 
+# 👋 Welcome to My GitHub!
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+a+Backend+Developer;Java+%26+Spring+Boot+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+</a>
+
+<br/>
 
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cohouseol)](https://solved.ac/cohouseol/)
+---
 
-# 💪Skills
+## 🚀 About Me
 
-**blog** <br>
-<a href="https://code-record.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a>
+```java
+public class Developer {
 
-**FrontEnd-stack** <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black"> 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=black"> 
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=black"> 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=black"> 
+    private final String role = "Backend Developer";
 
-**BackEnd-stack** <br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=black"> 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/> 
+    private final String[] languages = {
+        "Java", "TypeScript", "JavaScript"
+    };
 
-**DataBase-stack** <br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=black"> 
+    private final String[] interests = {
+        "Backend Architecture",
+        "API Design",
+        "Database Optimization"
+    };
 
-**Server-stack** <br>
+    public String motto() {
+        return "Keep Learning, Keep Building!";
+    }
+}
+```
 
-**Cooperation-stack** <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=black"> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=black"> 
+---
 
-**Tool-stack** <br>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=black"> 
+## 🛠️ Tech Stack
+
+### 💻 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,gradle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="48" height="48" alt="Hibernate" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css" />
+</p>
+
+### 🗄️ Database & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,docker,nginx,kafka" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,webstorm,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yang-hyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-hyunwoo&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yang-hyunwoo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yang-hyunwoo/yang-hyunwoo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+**Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" />
+
+</div>
