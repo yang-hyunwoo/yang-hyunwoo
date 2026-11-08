@@ -43,6 +43,21 @@ public class Developer {
     public String motto() {
         return "Keep Learning, Keep Building!";
     }
+
+     public record SubProject(
+        String projectName,
+        String startDate,
+        String endDate
+    ) {}
+
+    public List<SubProject> subProjects() {
+    return List.of(
+          new SubProject("Meetudy","2025-04","2025-06"),
+          new SubProject("Mockio","2026-03","2026-05"),
+          new SubProject("Crelabs","2026-08","2026-11"),
+          new SubProject("RepInn","2026-11",null),
+)
+
 }
 ```
 
