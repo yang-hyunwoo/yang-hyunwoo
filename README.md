@@ -37,8 +37,8 @@ public class Developer {
     public List<SubProject> subProjects() {
         return List.of(
               new SubProject("Meetudy",null,"2025-04","2025-06"),
-              new SubProject("Mockio",<a href="https://mockio.cloud">https://mockio.cloud</a>,"2026-03","2026-05"),
-              new SubProject("Crelabs",<a href="https://mockio.cloud">https://dev.mockio.cloud</a>,<a href="https://admin.mockio.cloud">https://admin.mockio.cloud</a>,"2026-08","2026-11"),
+              new SubProject("Mockio","2026-03","2026-05"),
+              new SubProject("Crelabs","2026-08","2026-11"),
               new SubProject("RepInn","2026-11",null),
         )
   }
@@ -57,14 +57,17 @@ public class Developer {
 
      public record SubProject(
         String projectName,
-        String Link,
         String startDate,
         String endDate
     ) {}
 
 }
 ```
+### 🔗 Project Links
 
+- 🌐 [Mockio](https://mockio.cloud)
+- 🦎 [Crelabs-front](https://dev.mockio.cloud)
+- 🦎 [Crelabs-admin](https://admin.mockio.cloud/login)
 ---
 
 ## 🛠️ Tech Stack
